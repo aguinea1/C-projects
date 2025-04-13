@@ -59,8 +59,8 @@ Focuses on synchronization, deadlock avoidance, and timing precision.
 ## 🛠 Tech Stack
 
 - Language: **C (ISO C89/C99)**
-- Tools: `gcc`, `make`, `valgrind`, `gdb`
-- Libraries: `MiniLibX`, `POSIX pthreads`
+- Tools: `gcc`, `make`, `valgrind`, `gdb`, and more.
+- Libraries: `MiniLibX`, `POSIX pthreads`, and more.
 - Paradigms: Memory-safe code, low-level system interaction, algorithmic thinking
 
 ---
