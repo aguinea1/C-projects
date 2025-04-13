@@ -68,7 +68,7 @@ Focuses on synchronization, deadlock avoidance, and timing precision.
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/aitor-guinea-961635348/)
-- 📧 [aguinea1@gmail.com](mailto:aguinea1@gmail.com)
+- 📧 [guineaitor36@gmail.com](mailto:guineaitor36@gmail.com)
 
 ---
 
